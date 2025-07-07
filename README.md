@@ -10,6 +10,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nat958&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nat958/Nat958/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nat568/Nat958/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nat958/Nat958/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nat958&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
